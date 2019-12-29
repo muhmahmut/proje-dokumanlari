@@ -1,0 +1,17 @@
+int(x): Eğer x bir string ifadeyse int fonksiyonu bu ifadeyi tam sayıya dönüştürür.
+long(x): Eğer x bir string ve sayı türünden bir ifadeyse uzun tam sayı ifadeye dönüştürür.
+float(x): x değişkenin noktalı bir ifadeye dönüştürüp sayılar üzerinde daha hasasiyetli işlemler yapabilirsiniz.
+complex(x): Karmaşık bir sayı dönüşümü sağlar.
+str(x): Bir x değişkenini string ifadeye dönüştürür.
+repr(x): Bir değişkenini strging ifadeye dönüştürür.
+eval(str): String bir ifade değerlendirir ve bir obje döndürür.
+tuple(s): Python Tuple veri tipine dönüştürür.
+list(s): Python List veri tipine dönüştürür.
+set(s): String ifadeyi set eder.
+dict(d): Python sözlük oluşturur. d (anahtar, değer) dizilerini bir dizi olmalıdır.
+frozenset(s): Dondurulmuş bir dizi dönüştürün.
+chr(x): Bir tamsayıyı karaktere dönüştürür.
+unichr(x): Bir tamsayıyı unicode olarak karaktere dönüştürür.
+ord(x): Tek bir karakteri tam sayıya dönüştürür.
+hex(x): Tam sayıyı hex e dönüştürür.
+oct(x): Bir tam sayıyı sekizlik yani octal diziye dönüştürür.
